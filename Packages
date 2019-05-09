@@ -1,0 +1,16 @@
+Package: snmp-0.1.0
+Version: 0.1.0
+Architecture: amd64
+Maintainer: root <tom.moulard@laposte.net>
+Installed-Size: 9
+Filename: ./snmp-0.1.0_0.1.0_amd64.deb
+Size: 1924
+MD5sum: 7d818af183bca01b71df8e83c7fdf3a3
+SHA1: 89794aa14a1629eab97384532f4e812a9a938d6b
+SHA256: b3f060a03bd279f8e5d94f88b13ad6e5a68373f242ab3887553eaaf31e993672
+Section: science
+Priority: optional
+Homepage: https://this.is.a.sample.home.page.com/
+Description: This is the short description
+ This is the long description of the package
+
