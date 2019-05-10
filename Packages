@@ -5,9 +5,9 @@ Maintainer: root <tom.moulard@laposte.net>
 Installed-Size: 9
 Filename: ./snmp-0.1.0_0.1.0_amd64.deb
 Size: 1924
-MD5sum: 3de086f59f561ed9dad7dcd981715b88
-SHA1: efe5e69f65c49da684da5372938865b13d9ddee7
-SHA256: e1d3cf099ff2870c800f00834b29b67460feb8b3ce45ac5bd12acb18be87bf88
+MD5sum: 32c46703571460abfd397bb1337d2f00
+SHA1: 561e4a6aac2a7e07aa5a886d57240798b759fd26
+SHA256: 6227bb75a73dd9031668e3ac2bbd40b618ba8f1e9b6000665758a826e952b291
 Section: science
 Priority: optional
 Homepage: https://this.is.a.sample.home.page.com/
